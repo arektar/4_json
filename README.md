@@ -1,6 +1,6 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+Программа получает на вход путь к файлу в формате .json и выводит его содержимое в удобном для чтения виде.
 
 # Quickstart
 
